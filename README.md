@@ -1,2 +1,2 @@
-# Dice-flutter
-A simple dice app developed by flutter🎲
+# Dice-flutter🎲
+A simple dice app developed by flutter
